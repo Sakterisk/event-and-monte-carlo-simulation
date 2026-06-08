@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8f919ffa-35de-4fda-afbe-4e1bdecaa6df" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/generator/Gen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/sem_two/entity/Baggage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/sem_two/entity/Crate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/sem_two/entity/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/sem_two/entity/FrontableEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/sem_two/entity/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/sem_two/sim_segment/Front.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/sem_two/sim_segment/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/core/EventCore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/core/EventCore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/core/SleepEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/core/SleepEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/generator/ContinuousEmpiricGen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/generator/ContinuousEmpiricGen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/generator/DiscreteEmpiricGen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/generator/DiscreteEmpiricGen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/generator/ExponentialGen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/generator/ExponentialGen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/generator/TriangularGen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/generator/TriangularGen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/gui/SimulationGUI2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/gui/SimulationGUI2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/gui/SimulationObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/gui/SimulationObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/sem_two/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/sem_two/EventSim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/sem_two/EventSim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/sem_two/event/ArrivalEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/sem_two/event/ArrivalEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/sem_two/event/BaseEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/sem_two/event/BaseEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/sem_two/event/FinishServingEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/sem_two/event/FinishServingEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/sem_two/event/StartServingEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/sem_two/event/StartServingEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/util/TimeParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2/util/TimeParser.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/adama/OneDrive/UNIZA/DIS/semestralka-dis" value="3B7L1avO34HLfwjSBerzU19D9hs" />
+      <entry key="_C:/Users/adama/OneDrive/UNIZA/DIS/semestralka-dis/project" value="3BTMuEjkvArX4Z8cOhHmFmQE9zr" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/java/sk/uniza/adamec2" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sakterisk&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Sakterisk/dis-semestralka.git",
+    "accountId": "6cb77091-058d-4a40-907a-b6a700bca4c1"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3B7L1avO34HLfwjSBerzU19D9hs" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Maven.semestralka-dis [deploy].executor": "Run",
+    "Maven.semestralka-dis [org.openjfx:javafx-maven-plugin:0.0.8:run].executor": "Run",
+    "Maven.semestralka-dis [package].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/adama/OneDrive/UNIZA/DIS/semestralka-dis/project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28539.33" />
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-IU-252.28539.33" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f919ffa-35de-4fda-afbe-4e1bdecaa6df" name="Changes" comment="" />
+      <created>1773834947911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773834947911</updated>
+      <workItem from="1773834949679" duration="2343000" />
+      <workItem from="1773855441886" duration="4082000" />
+      <workItem from="1773904431539" duration="4920000" />
+      <workItem from="1773909686034" duration="2461000" />
+      <workItem from="1773915702371" duration="2050000" />
+      <workItem from="1774256538050" duration="5543000" />
+      <workItem from="1774277060931" duration="3370000" />
+      <workItem from="1774338539928" duration="6000" />
+      <workItem from="1774364496724" duration="8366000" />
+      <workItem from="1774394564182" duration="1241000" />
+      <workItem from="1774396454533" duration="22000" />
+      <workItem from="1774397069911" duration="761000" />
+      <workItem from="1774477075969" duration="2152000" />
+      <workItem from="1774508831319" duration="19963000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
